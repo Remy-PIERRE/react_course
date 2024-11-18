@@ -31,7 +31,8 @@ const fruits = [
 ```
 
 - Afficher dans le tableau les fruits renseignés (remplacer ceux indiqués par defaut) en utilisant la méthode <code>.map</code> pour éviter les répétitions de code.
-- Créez un fonction permettant de supprimer un fruit en clickant sur le bouton "Supprimer" et qui mette à jour l'affichage de votre application automatiquement (utiliser un state pour gérer le rendu).
+- Créer une fonction permettant d'ajouter un fruit à la liste des fruits déjà présents (à la validation du formulaire). L'affichage se met à jour grace à l'utilisation du state.
+- Créez une fonction permettant de supprimer un fruit en clickant sur le bouton "Supprimer" et qui mette à jour l'affichage de votre application automatiquement.
 
 # Composants
 
